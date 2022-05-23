@@ -1,0 +1,31 @@
+{
+  "name": "vuedue1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "animate.css": "^4.1.1",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.0",
+    "swiper": "^8.1.4",
+    "vant": "^3.4.9",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-plugin-import": "^1.13.5",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.8"
+  }
+}
